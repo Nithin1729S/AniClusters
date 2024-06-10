@@ -7,6 +7,10 @@ AniClusters is a web application designed to visualize relationships between ani
 ## Demo Video
 
 
+https://github.com/Nithin1729S/AniClusters/assets/78496667/aafa339f-d42f-4db5-92de-21ab4c0402f8
+
+
+
 [Watch the demo on youtube](https://myanimelist.net/)
 ## Description
 AniClusters visualizes anime relationships using data from [MyAnimeList](https://myanimelist.net/) and [AniList](https://anilist.co/home). User recommendations are used to create edges between nodes representing different anime.

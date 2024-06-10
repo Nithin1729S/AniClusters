@@ -1,4 +1,4 @@
-import { Cluster } from "../../../data-collection/cluster";
+import { Cluster } from "../../data-collection/cluster";
 import * as _ from "lodash";
 import { getTiers, params_dict } from "./base_utils";
 
@@ -47,8 +47,8 @@ function displayTitle(metadata: any) {
     }
     return title;
 }
-import Anime from "../../../data-collection/data/min_metadata.json";
-import Clusters_ from "../../../data-collection/data/clusters.json";
+import Anime from "../../data-collection/data/min_metadata.json";
+import Clusters_ from "../../data-collection/data/clusters.json";
 import { ANIME_DATA } from "./types";
 export const Metadata = _.mapValues(Anime, (metadata: any) => Object.assign(new ANIME_DATA(), metadata, {
     display_title: displayTitle(metadata),

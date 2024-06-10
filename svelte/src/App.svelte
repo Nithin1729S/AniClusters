@@ -19,8 +19,8 @@
     import TextInput from "./TextInput.svelte";
     import SliderFilter from "./SliderFilter.svelte";
     import { FullNode, Node } from "./ts/node";
-	import Edges from "../data-collection/data/edges.json";
-	import Layout_ from "../data-collection/data/layout.json";
+	import Edges from "../src/data-collection/data/edges.json";
+	import Layout_ from "../src/data-collection/data/layout.json";
 import { ANIME_DATA } from "./ts/types";
 
     function getOptionLabel(option) {

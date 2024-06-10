@@ -2,7 +2,7 @@ import { createCluster } from "./cluster";
 import { Layout } from "./layout";
 import { storeEdges } from "./recs";
 import { storeMetadata, getIds, processMetadata, storeAniListMetadata } from "./shows";
-import { ANIME_DICT } from "../svelte/src/ts/types";
+import { ANIME_DICT } from "../ts/types";
 const fs = require('fs');
 const MAL_METADATA_FILENAME = 'data/metadata.json';
 const ANILIST_METADATA_FILENAME = 'data/metadata-anilist.json';

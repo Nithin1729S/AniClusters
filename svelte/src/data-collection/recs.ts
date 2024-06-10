@@ -1,5 +1,5 @@
 import * as _ from 'lodash';
-import { ANIME_DICT } from '../svelte/src/ts/types';
+import { ANIME_DICT } from '../ts/types';
 
 const fs = require('fs');
 export type Edge = [number, number, number];

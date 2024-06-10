@@ -13,9 +13,9 @@ import { params_dict, updateHashParams } from "./ts/base_utils";
 
 <button class="lang-button" on:click={(e) => changeLanguage()}>
     {#if currentLanguage() === "en"}
-        Japanese
+            Switch to Japanese
     {:else}
-        English
+         Switch to English
     {/if}
 </button>
 
@@ -24,6 +24,9 @@ import { params_dict, updateHashParams } from "./ts/base_utils";
         color: #ffffff;
         background: transparent;
         cursor: pointer;
+        font-size: medium;
         border: none;
+        padding-top: 10px;
+        padding-right:30px ;
     }
 </style>

@@ -89,12 +89,12 @@
   }
 
   ::-webkit-scrollbar-thumb {
-    background-color: var(--color-d-gray-20);
+    background-color: #ffffff;
     border-radius: 4px;
   }
 
   .tree-item-self {
-    color: var(--color-d-gray-20);
+    color:#ffffff;
     background: transparent;
     display: flex;
     flex-direction: column;
@@ -108,7 +108,7 @@
     left: 10px;
     background: transparent;
     border: none;
-    color: var(--color-d-white);
+    color: #ffffff;
     height: 40px;
     width: 40px;
     font-size: 1.5rem;
@@ -123,7 +123,7 @@
     font-size: 1.5rem;
     background: transparent;
     border: none;
-    color: var(--color-d-white);
+    color:#ffffff;
     position: absolute;
     cursor: pointer;
   }

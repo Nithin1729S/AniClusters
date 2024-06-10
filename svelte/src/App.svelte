@@ -1,7 +1,6 @@
 <script lang="ts">
     import AnimeView from "./AnimeView.svelte";
     import Canvas from "./Canvas.svelte";
-    import Filters from "./Filters.svelte";
     import LangButton from "./LangButton.svelte";
     import Searchbar from "./Searchbar.svelte";
     import Sidebar from "./Sidebar.svelte";

@@ -11,6 +11,6 @@
 
 <style>
     .github-link {
-        color: var(--color-d-gray-20);
+        color: #ffffff;
     }
 </style>

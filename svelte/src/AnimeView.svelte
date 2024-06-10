@@ -54,7 +54,7 @@
         opacity: 0.5;
     }
     a {
-        color: var(--text-normal);
+        color: #ffffff;
         text-decoration: none;
     }
 
@@ -63,7 +63,7 @@
         overflow: auto;
         padding-bottom: 0;
         font-size: 15px;
-        color: var(--color-d-gray-10);
+        color: #ffffff;
     }
 
     ::-webkit-scrollbar {
@@ -72,7 +72,7 @@
 
     ::-webkit-scrollbar-thumb {
         -webkit-appearance: none;
-        background-color: var(--text-normal);
+        background-color: #ffffff;
         border-radius: 4px;
     }
 </style>

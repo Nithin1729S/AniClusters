@@ -13,7 +13,7 @@ export function createCircleSprite(texture): Sprite {
 }
 
 BitmapFont.from("TitleFont", {
-	fill: 0xe6cfb3,
+	fill: 0xffffff,
 	fontSize: 80,
 }, {
 	chars: BitmapFont.ASCII.concat(['∀']),

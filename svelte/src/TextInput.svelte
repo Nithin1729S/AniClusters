@@ -57,11 +57,11 @@
         height: 30px;
         border-radius: 4px;
         outline: none;
-        background: var(--color-d-blacker);
+        background: #ffffff;
         border: 1px solid var(--background-modifier-border);
         font-size: 14px;
         display: block;
-        color: var(--text-normal);
+        color:#ffffff;
     }
 
     .text-input-wrapper {
@@ -73,7 +73,7 @@
         width: var(--scale-8-2);
         top: 8px;
         right: 8px;
-        color: var(--text-normal);
+        color: #ffffff;
         cursor: pointer;
         position: absolute;
         background: transparent;

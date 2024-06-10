@@ -21,7 +21,7 @@ import { params_dict, updateHashParams } from "./ts/base_utils";
 
 <style>
     .lang-button {
-        color: #baa791;
+        color: #ffffff;
         background: transparent;
         cursor: pointer;
         border: none;

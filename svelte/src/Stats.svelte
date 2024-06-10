@@ -38,11 +38,11 @@
     .stat {
         margin: 5px;
         padding: 5px;
-        border: 1px solid var(--color-d-gray-10);
+        border: 1px solid #ffffff;
         border-radius: 5px;
         font-size: 0.8em;
         background: transparent;
-        color: var(--color-d-gray-10);
+        color: #ffffff;
     }
 
     .stat-value {

@@ -278,11 +278,11 @@
     font-size: 2rem;
     width: 40px;
     height: 40px;
-    background-color: #baa791;
+    background-color:#ffffff;
     border-radius: 6px;
     border: none;
     cursor: pointer;
-    color: var(--color-d-gray-40);
+    color: black;
     font-weight: bold;
   }
 </style>
